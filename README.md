@@ -39,7 +39,7 @@ A responsive admin dashboard built with **React + Vite**, powered by **Firebase 
 ### 🧭 Sidebar Navigation
 - Responsive Material UI `Drawer`
 - Route-based navigation
-- Mobile-friendly toggle (below 579px)
+  
 
 ### 🌗 Responsive Design
 - Fully mobile and desktop friendly
@@ -71,5 +71,11 @@ VITE_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
 VITE_FIREBASE_APP_ID=your_app_id
 
 VITE_GUARDIAN_API_KEY=your_guardian_api_key
+```
+##🧪 Run Locally
+```
+cd client
+npm install
+npm run dev
 ```
 
