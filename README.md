@@ -72,8 +72,8 @@ VITE_FIREBASE_APP_ID=your_app_id
 
 VITE_GUARDIAN_API_KEY=your_guardian_api_key
 ```
----
-##🧪 Run Locally
+
+## 🧪 Run Locally
 ```
 cd client
 npm install
