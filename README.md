@@ -2,7 +2,6 @@
 
 A responsive admin dashboard built with **React + Vite**, powered by **Firebase Auth**, **Guardian News API**, and **Material UI**. This app provides Google & email login, article filtering/search, payout tracking, CSV/PDF export, and mobile responsiveness.
 
----
 
 ## 🚀 Features
 
@@ -45,7 +44,6 @@ A responsive admin dashboard built with **React + Vite**, powered by **Firebase 
 - Fully mobile and desktop friendly
 - Conditional layout using MUI breakpoints
 
----
 
 ## 📦 Tech Stack
 
@@ -56,7 +54,6 @@ A responsive admin dashboard built with **React + Vite**, powered by **Firebase 
 - 📊 **Recharts**, `jsPDF`, `papaparse`
 - 📁 **React Router**, `useContext`
 
----
 
 ## 🔑 Environment Variables
 
